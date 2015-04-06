@@ -41,7 +41,7 @@ color: #6FAFDD;
     display: inline-block;
 font-size: 14px;
 max-width: 350px;
-background: none repeat scroll 0% 0% #FFF;
+
 padding: 8px 14px;
 border-radius: 18px;
 min-width: 0px;
