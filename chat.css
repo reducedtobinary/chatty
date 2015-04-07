@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: "signify";
-  src:url("fonts/signify.eot");
-  src:url("fonts/signify.eot?#iefix") format("embedded-opentype"),
-    url("fonts/signify.woff") format("woff"),
-    url("fonts/signify.ttf") format("truetype"),
-    url("fonts/signify.svg#signify") format("svg");
+  src:url("signify.eot");
+  src:url("signify.eot?#iefix") format("embedded-opentype"),
+    url("signify.woff") format("woff"),
+    url("signify.ttf") format("truetype"),
+    url("signify.svg#signify") format("svg");
   font-weight: normal;
   font-style: normal;
 
@@ -23,10 +23,10 @@
 h1 {
 	   font-family: "signify";
     font-weight: normal;
-font-size: 2.9em;
-line-height: 1;
-margin: 0px;
-color: #6FAFDD;
+    font-size: 2.9em;
+    line-height: 1;
+    margin: 0px;
+    color: #6FAFDD;
 }
 
 .chatty-header{
